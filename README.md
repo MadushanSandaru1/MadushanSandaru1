@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=MadushanSandaru1" alt="Visitors" />
   </a>
   <a href="https://github.com/MadushanSandaru1?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadushanSandaru1?color=18d26e&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadushanSandaru1?style=flat-square&color=18d26e&labelColor=040404&logo=github">
   </a>
 </p>
 
