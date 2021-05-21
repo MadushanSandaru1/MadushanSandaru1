@@ -12,9 +12,6 @@
 
 <br>
 
-
-
-
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://madushansandaru1.github.io)](https://madushansandaru1.github.io)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94771637551)](https://wa.me/+94771637551)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madushansandaru1@gmail.com)](mailto:madushansandaru1@gmail.com)
@@ -29,11 +26,10 @@
 <br>
 
 
-<a href="#macropower-title">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MadushanSandaru1&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="macropower" align="left" />
+<a href="#MadushanSandaru1-title">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MadushanSandaru1&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="MadushanSandaru1" align="left" />
 </a>
 
-<a href="#macropower-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanSandaru1&title_color=18d26e&text_color=ffffff&icon_color=18d26e&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="macropower" align="right" />
+<a href="#MadushanSandaru1-title">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanSandaru1&title_color=18d26e&text_color=ffffff&icon_color=18d26e&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="MadushanSandaru1" align="right" />
 </a>
-<br>
