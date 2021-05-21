@@ -1,11 +1,22 @@
-### Hi there, I'm Madushan Sandaruwan 👋
+<p align="right">
+  <a href="https://github.com/MadushanSandaru1/MadushanSandaru1">
+    <img src="https://komarev.com/ghpvc/?username=MadushanSandaru1" alt="Visitors" />
+  </a>
+  <a href="https://github.com/MadushanSandaru1?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadushanSandaru1?color=18d26e&logo=github">
+  </a>
+</p>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamSafnaj/)](https://twitter.com/iamSafnaj/)
-[![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iam_safnaj)](https://www.instagram.com/iam_safnaj)
-[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahamed.safnaj)](https://www.facebook.com/ahamed.safnaj)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahamed-safnaj/)](https://www.linkedin.com/in/ahamed-safnaj/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/ahamed-safnaj)](https://stackoverflow.com/users/9752928/ahamed-safnaj)
-[![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Madushan Sandaruwan</h1>
+<h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
-![MadushanSandaru1's github stats](https://github-readme-stats.vercel.app/api?username=MadushanSandaru1&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanSandaru1&layout=compact)
+<br>
+
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadushanSandaru1&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="macropower" align="left" />
+</a>
+
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanSandaru1&title_color=18d26e&text_color=ffffff&icon_color=18d26e&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="macropower" align="right" />
+</a>
+<br>
