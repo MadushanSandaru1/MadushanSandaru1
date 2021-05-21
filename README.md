@@ -1,17 +1,21 @@
 <p align="right">
   <a href="https://github.com/MadushanSandaru1/MadushanSandaru1">
-    <img src="https://komarev.com/ghpvc/?username=MadushanSandaru1" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=MadushanSandaru1&style=flat-square&color=040404" alt="Visitors" />
   </a>
   <a href="https://github.com/MadushanSandaru1?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadushanSandaru1?style=flat-square&color=18d26e&labelColor=040404&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MadushanSandaru1?style=flat-square&color=040404&labelColor=565656&logo=github" alt="Followers" />
   </a>
 </p>
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Madushan Sandaruwan</h1>
+<h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello there! I'm Madushan Sandaruwan</h1>
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
 <br>
 
+
+
+
+[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://madushansandaru1.github.io)](https://madushansandaru1.github.io)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94771637551)](https://wa.me/+94771637551)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madushansandaru1@gmail.com)](mailto:madushansandaru1@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/MadushanSandaru1)](https://github.com/MadushanSandaru1)
