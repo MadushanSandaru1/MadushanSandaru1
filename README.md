@@ -13,10 +13,10 @@
 <br>
 
 <a href="#macropower-title">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=MadushanSandaru1&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="macropower" align="left" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=MadushanSandaru1&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="macropower" align="left" />
 </a>
 
 <a href="#macropower-title">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanSandaru1&title_color=18d26e&text_color=ffffff&icon_color=18d26e&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="macropower" align="right" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanSandaru1&title_color=18d26e&text_color=ffffff&icon_color=18d26e&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="macropower" align="right" />
 </a>
 <br>
