@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/MadushanSandaru1/MadushanSandaru1">
+  <a href="https://github.com/MadushanSandaru1">
     <img src="https://komarev.com/ghpvc/?username=MadushanSandaru1&style=flat-square&color=040404" alt="Visitors" />
   </a>
   <a href="https://github.com/MadushanSandaru1?tab=followers">
