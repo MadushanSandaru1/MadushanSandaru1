@@ -31,5 +31,5 @@
 </a>
 
 <a href="#MadushanSandaru1-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanSandaru1&title_color=18d26e&text_color=ffffff&icon_color=18d26e&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="MadushanSandaru1" align="right" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanSandaru1&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="MadushanSandaru1" align="right" />
 </a>
