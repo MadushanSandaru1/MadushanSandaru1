@@ -7,13 +7,17 @@
   </a>
 </p>
 
-<h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello there! I'm Madushan Sandaruwan</h1>
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQFulCUd1BFahA/profile-displaybackgroundimage-shrink_350_1400/0/1597037197532?e=1661990400&v=beta&t=Hq6XNhUojiWKgV7Ax_mbXE2HCqVENLoknEuHgl-MqBg" />
+
+<!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
+<h1 align="left" id="macropower-title">Hello there! I'm Madushan Sandaruwan</h1>
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
 <br>
 
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://madushansandaru1.github.io)](https://madushansandaru1.github.io)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94771637551)](https://wa.me/+94771637551)
+[![Skype Badge](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white&link=https://wa.me/+94771637551)](https://join.skype.com/invite/yrHGvgiHdCb2)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madushansandaru1@gmail.com)](mailto:madushansandaru1@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/MadushanSandaru1)](https://github.com/MadushanSandaru1)
 [![Stack-overflow Badge](https://img.shields.io/badge/Stack-overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13410194/madushan-sandaruwan)](https://stackoverflow.com/users/13410194/madushan-sandaruwan)
