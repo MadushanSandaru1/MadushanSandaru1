@@ -11,7 +11,7 @@
 
 <!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
 <h1 align="left" id="macropower-title">Hello there! I'm Madushan Sandaruwan</h1>
-<h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
+<h3 align="left">I am a Software Engineer at DirectFN Sri Lanka</h3>
 
 <br>
 
