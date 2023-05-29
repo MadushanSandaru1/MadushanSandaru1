@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://media.licdn.com/dms/image/C5616AQFulCUd1BFahA/profile-displaybackgroundimage-shrink_350_1400/0/1597037197532?e=1684972800&v=beta&t=Wg9_IJbINyn0d0vNv5FlULMmhy77aB9HwmblL58GCNs" />
+<img src="https://media.licdn.com/dms/image/C5616AQFulCUd1BFahA/profile-displaybackgroundimage-shrink_350_1400/0/1597037197532?e=1691020800&v=beta&t=MsdRfrFIYJ7BMpi4HGHV_ZB7xil_sCl5TmrRTE-jIA0" />
 
 <!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
 <h1 align="left" id="macropower-title">Hello there! I'm Madushan Sandaruwan</h1>
