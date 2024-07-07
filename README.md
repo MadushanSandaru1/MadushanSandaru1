@@ -7,11 +7,11 @@
   </a>
 </p>
 
-<img src="https://media.licdn.com/dms/image/C5616AQFulCUd1BFahA/profile-displaybackgroundimage-shrink_350_1400/0/1597037197532?e=1691020800&v=beta&t=MsdRfrFIYJ7BMpi4HGHV_ZB7xil_sCl5TmrRTE-jIA0" />
+<img src="https://media.licdn.com/dms/image/C5616AQFulCUd1BFahA/profile-displaybackgroundimage-shrink_350_1400/0/1597037199942?e=1726099200&v=beta&t=6S5QQdmD3ID3n5YnM3TwF1SvMHKzxSmQVFpHpHOV3TY" />
 
 <!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
 <h1 align="left" id="macropower-title">Hello there! I'm Madhushan Sandaruwan</h1>
-<h3 align="left">I am a Software Engineer at Tapro Technologies</h3>
+<h3 align="left">I am a Software Engineer at DirectFN Sri Lanka</h3>
 
 <br>
 
