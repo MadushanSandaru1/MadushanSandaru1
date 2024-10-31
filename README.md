@@ -11,7 +11,7 @@
 
 <!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
 <h1 align="left" id="macropower-title">Hello there! I'm Madhushan Sandaruwan</h1>
-<h3 align="left">I am a Software Engineer at DirectFN Sri Lanka</h3>
+<h3 align="left">I am a Senior Software Engineer at DirectFN Sri Lanka</h3>
 
 <br>
 
