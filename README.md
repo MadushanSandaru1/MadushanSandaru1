@@ -1,9 +1,9 @@
 <p align="right">
   <a href="https://github.com/MadushanSandaru1">
-    <img src="https://komarev.com/ghpvc/?username=MadushanSandaru1&style=flat-square&color=040404" alt="GitHub visitors" />
+    <img src="https://komarev.com/ghpvc/?username=MadushanSandaru1&label=Profile%20views&style=flat-square&color=040404" alt="GitHub visitors"/>
   </a>
   <a href="https://github.com/MadushanSandaru1?tab=followers">
-    <img src="https://img.shields.io/github/followers/MadushanSandaru1?style=flat-square&color=040404&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/MadushanSandaru1?style=flat-square&color=040404&logo=github" alt="GitHub followers"/>
   </a>
 </p>
 
